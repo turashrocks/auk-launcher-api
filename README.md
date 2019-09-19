@@ -9,8 +9,9 @@ Both of them communicating through API.<br/>
 
 -git clone full repo<br/>
 -.env file modifcation<br/>
+
 ```
--composer install
+composer install
 ```
 
 ```
@@ -28,25 +29,25 @@ php artisan jwt:secret
 ```
 php artisan serve
 ```
-<br/>
+
 ## Vue Installation- Backend
 
 ```
 -cd fronend
 ```
-NPM Package install
+###### NPM Package install
 
 ```
 npm install
 ```
 
-Nuxt installation
+###### Nuxt installation
 
 ```
 npm run build
 ```
 
-Nuxt app run
+###### Nuxt app run
 
 ```
 npm run dev
