@@ -7,8 +7,8 @@ Both of them communicating through API.<br/>
 
 ## Laravel Installation- Backend
 
--git clone full repo<br/>
--.env file modifcation<br/>
+###### git clone full repo 
+###### .env file modifcation
 
 ```
 composer install
@@ -30,7 +30,7 @@ php artisan jwt:secret
 php artisan serve
 ```
 
-## Vue Installation- Backend
+## Vue Installation- FrontEnd
 
 ```
 -cd fronend
@@ -41,7 +41,7 @@ php artisan serve
 npm install
 ```
 
-###### Nuxt installation
+###### Vue Nuxt compile
 
 ```
 npm run build
