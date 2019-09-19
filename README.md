@@ -13,15 +13,19 @@ Laravel Installation.<br/>
 <br/>
 Frontend<br/>
 -cd fronend<br/>
-```
+
 ```
 npm install<br/>
 ```
+
 Nuxt installation
+
 ```
 npm run build
 ```
+
 Nuxt app run
+
 ```
 npm run dev
 ```
